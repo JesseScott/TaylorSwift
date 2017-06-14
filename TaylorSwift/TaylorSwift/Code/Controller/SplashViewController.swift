@@ -13,7 +13,7 @@ class SplashViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        println("SPLASH");
+        print("SPLASH");
 
         var timer = NSTimer.scheduledTimerWithTimeInterval(1, target: self, selector: "transition", userInfo: nil, repeats: false);
     

@@ -13,7 +13,7 @@ class VideosViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        println("VIDEOS");
+        print("VIDEOS");
 
         
         
